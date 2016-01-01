@@ -8,7 +8,6 @@
     "build": "npm run prepublish",
     "prepublish": "npm run build:js",
     "build:js": "babel --loose all ./src/components -d ./lib",
-    "postinstall": "webpack --config ./webpack-prod.config.js --progress --colors",
     "start": "node server.js",
     "start:dev": "webpack-dev-server --hot --inline",
     "build-dev": "webpack -d"
