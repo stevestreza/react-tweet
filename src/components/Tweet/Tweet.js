@@ -41,7 +41,6 @@ class Tweet extends React.Component {
   }
 
   render () {
-    console.log(this.props.data)
     const {modalActive, modalIndex} = this.state
     let {data} = this.props, isRT = false
     let MediaComponent = null, QuoteComponent = null

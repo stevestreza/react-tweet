@@ -81,6 +81,7 @@ class Photos extends React.Component {
        */
       if (media.length === 3)  {
         if (i === 0) {
+          const maxHeight = 337
           containStyle.width = `${100 * (2/3)}%`
           containStyle.marginRight = '1px'
           containStyle.height = '337px'
