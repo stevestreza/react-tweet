@@ -23,6 +23,7 @@ although any object can be used as long as it has the following properties:
 
 ```js
 import React from 'react'
+import Tweet from 'react-tweet'
 
 const tweetData = {
   id: 'XXX',
@@ -40,7 +41,7 @@ const tweetData = {
     urls: [],
     user_mentions: [],
     hashtags: [],
-    symbols: []
+    symbols: []:v
   } 
 }
 

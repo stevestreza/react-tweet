@@ -6,12 +6,10 @@ import twemoji from 'twemoji'
 class Header extends React.Component {
   createTimestamp (time) {
     if (!time) return null
-    if (typeof navigator === "undefined") navigator = {'userAgent': ''}
 
     const parseTwitterDate = tdate => {
       let system_date = new Date(Date.parse(tdate))
       var user_date = new Date()
-      if (K.ie) system_date = Date.parse(tdate.replace(/( \+)/, ' UTC$1'))
 
       let diff = Math.floor((user_date - system_date) / 1000)
       if (diff < 59) {return diff + "s"}
@@ -20,12 +18,6 @@ class Header extends React.Component {
       if (diff < 604800) {return Math.round(diff / 86400) + "d"}
       return system_date.toString().substring(4, 10)
     }
-
-    // from http://widgets.twimg.com/j/1/widget.js
-    const K = () => {
-      let a = navigator.userAgent
-      return { 'ie': a.match(/MSIE\s([^;]*)/) }
-    }()
 
     return parseTwitterDate(time)
   }
