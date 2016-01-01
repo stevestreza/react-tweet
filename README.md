@@ -35,13 +35,13 @@ const tweetData = {
   created_at: 'XXX',
   favorite_count: 'XXX',
   retweet_count: 'XXX',
-  entities: [
+  entities: {
     media: [],
     urls: [],
     user_mentions: [],
     hashtags: [],
     symbols: []
-  ]
+  } 
 }
 
 class MyTweetComponent extends React.Component {
