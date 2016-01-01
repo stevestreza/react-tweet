@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tweet.png" />
+  <img src="https://raw.githubusercontent.com/artnotfound/react-tweet/master/tweet.png" />
 </p>
 
 React.js component for rendering tweets as they are presented on Twitter.com. Currently themed after the Desktop
