@@ -21,7 +21,7 @@ Pass in tweet objects returned from twitter API Requests as a 'data' prop. Desig
 although any object can be used as long as it has the following properties:
 
 
-```
+```js
 import React from 'react'
 
 const tweetData = {
@@ -65,6 +65,7 @@ run `npm start` & visit `localhost:8080`
   * Modal mode for images
 
 ## TODO:
+  * Mobile style support
   * Better video support, seems Twitter uses custom player
   * Mimick video controls of Twitter.com
   * Add slideshow controls in Modal mode
