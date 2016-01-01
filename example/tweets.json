@@ -1,0 +1,2767 @@
+[
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 01 20:50:08 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1051923528,
+                    "id_str": "1051923528",
+                    "indices": [
+                        0,
+                        8
+                    ],
+                    "name": "Greg Flocka James",
+                    "screen_name": "GxHunna"
+                }
+            ]
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "geo": null,
+        "id": 683027449878196224,
+        "id_str": "683027449878196224",
+        "in_reply_to_screen_name": "GxHunna",
+        "in_reply_to_status_id": 683022915034546176,
+        "in_reply_to_status_id_str": "683022915034546176",
+        "in_reply_to_user_id": 1051923528,
+        "in_reply_to_user_id_str": "1051923528",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@GxHunna turn up mannn - lil b",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 05 02:41:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mogul, First Rapper Ever To Write And Publish A Book at 19, Film Score, Composer, Producer,Director/Photo/Branding/Marketing/Historical Online Figure #BASED",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/lilbpack1",
+                            "expanded_url": "http://www.youtube.com/lilbpack1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zoy27sPkw9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 96978,
+            "follow_request_sent": false,
+            "followers_count": 1207333,
+            "following": false,
+            "friends_count": 1322807,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 37836873,
+            "id_str": "37836873",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5990,
+            "location": "United States",
+            "name": "Lil B THE BASEDGOD",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "12FFA0",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LILBTHEBASEDGOD",
+            "statuses_count": 147895,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zoy27sPkw9",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 01 20:50:01 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        92,
+                        104
+                    ],
+                    "text": "1000bitches"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/LFGfOC4QtO",
+                    "expanded_url": "http://twitter.com/GxHunna/status/683022915034546176/video/1",
+                    "id": 683022764312150016,
+                    "id_str": "683022764312150016",
+                    "indices": [
+                        105,
+                        128
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/683022764312150016/pu/img/pfn9-dTduxsqoa4e.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/683022764312150016/pu/img/pfn9-dTduxsqoa4e.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 568,
+                            "resize": "fit",
+                            "w": 320
+                        },
+                        "medium": {
+                            "h": 568,
+                            "resize": "fit",
+                            "w": 320
+                        },
+                        "small": {
+                            "h": 568,
+                            "resize": "fit",
+                            "w": 320
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 683022915034546176,
+                    "source_status_id_str": "683022915034546176",
+                    "source_user_id": 1051923528,
+                    "source_user_id_str": "1051923528",
+                    "type": "photo",
+                    "url": "https://t.co/LFGfOC4QtO"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1051923528,
+                    "id_str": "1051923528",
+                    "indices": [
+                        3,
+                        11
+                    ],
+                    "name": "Greg Flocka James",
+                    "screen_name": "GxHunna"
+                },
+                {
+                    "id": 37836873,
+                    "id_str": "37836873",
+                    "indices": [
+                        42,
+                        58
+                    ],
+                    "name": "Lil B THE BASEDGOD",
+                    "screen_name": "LILBTHEBASEDGOD"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 683027419037487104,
+        "id_str": "683027419037487104",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 13,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Jan 01 20:32:07 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            79,
+                            91
+                        ],
+                        "text": "1000bitches"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/LFGfOC4QtO",
+                        "expanded_url": "http://twitter.com/GxHunna/status/683022915034546176/video/1",
+                        "id": 683022764312150016,
+                        "id_str": "683022764312150016",
+                        "indices": [
+                            92,
+                            115
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/683022764312150016/pu/img/pfn9-dTduxsqoa4e.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/683022764312150016/pu/img/pfn9-dTduxsqoa4e.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 568,
+                                "resize": "fit",
+                                "w": 320
+                            },
+                            "medium": {
+                                "h": 568,
+                                "resize": "fit",
+                                "w": 320
+                            },
+                            "small": {
+                                "h": 568,
+                                "resize": "fit",
+                                "w": 320
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/LFGfOC4QtO"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 37836873,
+                        "id_str": "37836873",
+                        "indices": [
+                            29,
+                            45
+                        ],
+                        "name": "Lil B THE BASEDGOD",
+                        "screen_name": "LILBTHEBASEDGOD"
+                    }
+                ]
+            },
+            "favorite_count": 30,
+            "favorited": false,
+            "geo": null,
+            "id": 683022915034546176,
+            "id_str": "683022915034546176",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 13,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "When the hottest rapper ever @LILBTHEBASEDGOD comes on. I can't control myself #1000bitches https://t.co/LFGfOC4QtO",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Jan 01 06:01:56 +0000 2013",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Black lives matter",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 1768,
+                "follow_request_sent": false,
+                "followers_count": 560,
+                "following": false,
+                "friends_count": 416,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 1051923528,
+                "id_str": "1051923528",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 2,
+                "location": "Based World",
+                "name": "Greg Flocka James",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1051923528/1451385566",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/552082553218162688/Ng_2ZaZT_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/552082553218162688/Ng_2ZaZT_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "GxHunna",
+                "statuses_count": 12901,
+                "time_zone": "Atlantic Time (Canada)",
+                "url": null,
+                "utc_offset": -14400,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @GxHunna: When the hottest rapper ever @LILBTHEBASEDGOD comes on. I can't control myself #1000bitches https://t.co/LFGfOC4QtO",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 05 02:41:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mogul, First Rapper Ever To Write And Publish A Book at 19, Film Score, Composer, Producer,Director/Photo/Branding/Marketing/Historical Online Figure #BASED",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/lilbpack1",
+                            "expanded_url": "http://www.youtube.com/lilbpack1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zoy27sPkw9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 96978,
+            "follow_request_sent": false,
+            "followers_count": 1207333,
+            "following": false,
+            "friends_count": 1322807,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 37836873,
+            "id_str": "37836873",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5990,
+            "location": "United States",
+            "name": "Lil B THE BASEDGOD",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "12FFA0",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LILBTHEBASEDGOD",
+            "statuses_count": 147895,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zoy27sPkw9",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 01 20:49:45 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/AKEG9KC92P",
+                    "expanded_url": "http://twitter.com/SmokeBza/status/683023559753469952/video/1",
+                    "id": 683023517680406528,
+                    "id_str": "683023517680406528",
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/683023517680406528/pu/img/cO4DRTB33_IhnKLd.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/683023517680406528/pu/img/cO4DRTB33_IhnKLd.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 720,
+                            "resize": "fit",
+                            "w": 720
+                        },
+                        "medium": {
+                            "h": 600,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 340,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 683023559753469952,
+                    "source_status_id_str": "683023559753469952",
+                    "source_user_id": 427755082,
+                    "source_user_id_str": "427755082",
+                    "type": "photo",
+                    "url": "https://t.co/AKEG9KC92P"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 427755082,
+                    "id_str": "427755082",
+                    "indices": [
+                        3,
+                        12
+                    ],
+                    "name": "Brendan Perez",
+                    "screen_name": "SmokeBza"
+                },
+                {
+                    "id": 37836873,
+                    "id_str": "37836873",
+                    "indices": [
+                        28,
+                        44
+                    ],
+                    "name": "Lil B THE BASEDGOD",
+                    "screen_name": "LILBTHEBASEDGOD"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 683027353107181569,
+        "id_str": "683027353107181569",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Jan 01 20:34:41 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/AKEG9KC92P",
+                        "expanded_url": "http://twitter.com/SmokeBza/status/683023559753469952/video/1",
+                        "id": 683023517680406528,
+                        "id_str": "683023517680406528",
+                        "indices": [
+                            31,
+                            54
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/683023517680406528/pu/img/cO4DRTB33_IhnKLd.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/683023517680406528/pu/img/cO4DRTB33_IhnKLd.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 720,
+                                "resize": "fit",
+                                "w": 720
+                            },
+                            "medium": {
+                                "h": 600,
+                                "resize": "fit",
+                                "w": 600
+                            },
+                            "small": {
+                                "h": 340,
+                                "resize": "fit",
+                                "w": 340
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/AKEG9KC92P"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 37836873,
+                        "id_str": "37836873",
+                        "indices": [
+                            14,
+                            30
+                        ],
+                        "name": "Lil B THE BASEDGOD",
+                        "screen_name": "LILBTHEBASEDGOD"
+                    }
+                ]
+            },
+            "favorite_count": 10,
+            "favorited": false,
+            "geo": null,
+            "id": 683023559753469952,
+            "id_str": "683023559753469952",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 3,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "Man shout out @LILBTHEBASEDGOD https://t.co/AKEG9KC92P",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Dec 03 22:58:45 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Out to sea with no shore in site.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 5440,
+                "follow_request_sent": false,
+                "followers_count": 146,
+                "following": false,
+                "friends_count": 210,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 427755082,
+                "id_str": "427755082",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 3,
+                "location": "",
+                "name": "Brendan Perez",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/576592053/qq4n28v3mmwv55moqm47.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/576592053/qq4n28v3mmwv55moqm47.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/427755082/1436852081",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/631494500066590721/rpn91PIM_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/631494500066590721/rpn91PIM_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "SmokeBza",
+                "statuses_count": 44784,
+                "time_zone": "Alaska",
+                "url": null,
+                "utc_offset": -32400,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @SmokeBza: Man shout out @LILBTHEBASEDGOD https://t.co/AKEG9KC92P",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 05 02:41:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mogul, First Rapper Ever To Write And Publish A Book at 19, Film Score, Composer, Producer,Director/Photo/Branding/Marketing/Historical Online Figure #BASED",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/lilbpack1",
+                            "expanded_url": "http://www.youtube.com/lilbpack1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zoy27sPkw9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 96978,
+            "follow_request_sent": false,
+            "followers_count": 1207333,
+            "following": false,
+            "friends_count": 1322807,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 37836873,
+            "id_str": "37836873",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5990,
+            "location": "United States",
+            "name": "Lil B THE BASEDGOD",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "12FFA0",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LILBTHEBASEDGOD",
+            "statuses_count": 147895,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zoy27sPkw9",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 01 20:49:29 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/SQKN0J3aBM",
+                    "expanded_url": "http://twitter.com/TieDyeElison/status/683025042658099200/video/1",
+                    "id": 683024624896966656,
+                    "id_str": "683024624896966656",
+                    "indices": [
+                        71,
+                        94
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/683024624896966656/pu/img/gQsTQXCWR_YcCote.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/683024624896966656/pu/img/gQsTQXCWR_YcCote.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 576,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 338,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 683025042658099200,
+                    "source_status_id_str": "683025042658099200",
+                    "source_user_id": 2338639585,
+                    "source_user_id_str": "2338639585",
+                    "type": "photo",
+                    "url": "https://t.co/SQKN0J3aBM"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 2338639585,
+                    "id_str": "2338639585",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "Tie-Dye Elison",
+                    "screen_name": "TieDyeElison"
+                },
+                {
+                    "id": 37836873,
+                    "id_str": "37836873",
+                    "indices": [
+                        18,
+                        34
+                    ],
+                    "name": "Lil B THE BASEDGOD",
+                    "screen_name": "LILBTHEBASEDGOD"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 683027285293711360,
+        "id_str": "683027285293711360",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 5,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Jan 01 20:40:34 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/SQKN0J3aBM",
+                        "expanded_url": "http://twitter.com/TieDyeElison/status/683025042658099200/video/1",
+                        "id": 683024624896966656,
+                        "id_str": "683024624896966656",
+                        "indices": [
+                            53,
+                            76
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/683024624896966656/pu/img/gQsTQXCWR_YcCote.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/683024624896966656/pu/img/gQsTQXCWR_YcCote.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 576,
+                                "resize": "fit",
+                                "w": 1024
+                            },
+                            "medium": {
+                                "h": 338,
+                                "resize": "fit",
+                                "w": 600
+                            },
+                            "small": {
+                                "h": 191,
+                                "resize": "fit",
+                                "w": 340
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/SQKN0J3aBM"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 37836873,
+                        "id_str": "37836873",
+                        "indices": [
+                            0,
+                            16
+                        ],
+                        "name": "Lil B THE BASEDGOD",
+                        "screen_name": "LILBTHEBASEDGOD"
+                    }
+                ]
+            },
+            "favorite_count": 17,
+            "favorited": false,
+            "geo": null,
+            "id": 683025042658099200,
+            "id_str": "683025042658099200",
+            "in_reply_to_screen_name": "LILBTHEBASEDGOD",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 37836873,
+            "in_reply_to_user_id_str": "37836873",
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 5,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "@LILBTHEBASEDGOD thank you for blessing my New Years https://t.co/SQKN0J3aBM",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Feb 11 16:23:47 +0000 2014",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "live your life wise and colorful",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "tiedyewhodie.tumblr.com",
+                                "expanded_url": "http://tiedyewhodie.tumblr.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/7LVPlA9HUA"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 4000,
+                "follow_request_sent": false,
+                "followers_count": 498,
+                "following": false,
+                "friends_count": 692,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 2338639585,
+                "id_str": "2338639585",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 2,
+                "location": "Richmond, CA",
+                "name": "Tie-Dye Elison",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2338639585/1450704217",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/681208090037882880/F5JJEZDD_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/681208090037882880/F5JJEZDD_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "TieDyeElison",
+                "statuses_count": 8531,
+                "time_zone": "Arizona",
+                "url": "https://t.co/7LVPlA9HUA",
+                "utc_offset": -25200,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @TieDyeElison: @LILBTHEBASEDGOD thank you for blessing my New Years https://t.co/SQKN0J3aBM",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 05 02:41:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mogul, First Rapper Ever To Write And Publish A Book at 19, Film Score, Composer, Producer,Director/Photo/Branding/Marketing/Historical Online Figure #BASED",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/lilbpack1",
+                            "expanded_url": "http://www.youtube.com/lilbpack1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zoy27sPkw9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 96978,
+            "follow_request_sent": false,
+            "followers_count": 1207333,
+            "following": false,
+            "friends_count": 1322807,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 37836873,
+            "id_str": "37836873",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5990,
+            "location": "United States",
+            "name": "Lil B THE BASEDGOD",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "12FFA0",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LILBTHEBASEDGOD",
+            "statuses_count": 147895,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zoy27sPkw9",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 01 20:47:04 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "instagram.com/p/BAAqb98uFSS/",
+                    "expanded_url": "https://www.instagram.com/p/BAAqb98uFSS/",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "url": "https://t.co/oYuLkcvsTo"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 10,
+        "favorited": false,
+        "geo": null,
+        "id": 683026678755553281,
+        "id_str": "683026678755553281",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "text": "Just posted a photo https://t.co/oYuLkcvsTo",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 05 02:41:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mogul, First Rapper Ever To Write And Publish A Book at 19, Film Score, Composer, Producer,Director/Photo/Branding/Marketing/Historical Online Figure #BASED",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/lilbpack1",
+                            "expanded_url": "http://www.youtube.com/lilbpack1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zoy27sPkw9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 96978,
+            "follow_request_sent": false,
+            "followers_count": 1207333,
+            "following": false,
+            "friends_count": 1322807,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 37836873,
+            "id_str": "37836873",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5990,
+            "location": "United States",
+            "name": "Lil B THE BASEDGOD",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "12FFA0",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LILBTHEBASEDGOD",
+            "statuses_count": 147895,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zoy27sPkw9",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 01 20:33:36 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "instagram.com/p/BAAo5Q2OFdx/",
+                    "expanded_url": "https://www.instagram.com/p/BAAo5Q2OFdx/",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "url": "https://t.co/dSbeHlCkYt"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 16,
+        "favorited": false,
+        "geo": null,
+        "id": 683023287853649920,
+        "id_str": "683023287853649920",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "text": "Just posted a photo https://t.co/dSbeHlCkYt",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 05 02:41:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mogul, First Rapper Ever To Write And Publish A Book at 19, Film Score, Composer, Producer,Director/Photo/Branding/Marketing/Historical Online Figure #BASED",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/lilbpack1",
+                            "expanded_url": "http://www.youtube.com/lilbpack1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zoy27sPkw9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 96978,
+            "follow_request_sent": false,
+            "followers_count": 1207333,
+            "following": false,
+            "friends_count": 1322807,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 37836873,
+            "id_str": "37836873",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5990,
+            "location": "United States",
+            "name": "Lil B THE BASEDGOD",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "12FFA0",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LILBTHEBASEDGOD",
+            "statuses_count": 147895,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zoy27sPkw9",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 01 20:30:44 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "instagram.com/p/BAAokM9OFc7/",
+                    "expanded_url": "https://www.instagram.com/p/BAAokM9OFc7/",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "url": "https://t.co/DcAKctS4yf"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 17,
+        "favorited": false,
+        "geo": null,
+        "id": 683022564839522309,
+        "id_str": "683022564839522309",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "text": "Just posted a photo https://t.co/DcAKctS4yf",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 05 02:41:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mogul, First Rapper Ever To Write And Publish A Book at 19, Film Score, Composer, Producer,Director/Photo/Branding/Marketing/Historical Online Figure #BASED",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/lilbpack1",
+                            "expanded_url": "http://www.youtube.com/lilbpack1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zoy27sPkw9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 96978,
+            "follow_request_sent": false,
+            "followers_count": 1207333,
+            "following": false,
+            "friends_count": 1322807,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 37836873,
+            "id_str": "37836873",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5990,
+            "location": "United States",
+            "name": "Lil B THE BASEDGOD",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "12FFA0",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LILBTHEBASEDGOD",
+            "statuses_count": 147895,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zoy27sPkw9",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 01 20:26:09 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 33051316,
+                    "id_str": "33051316",
+                    "indices": [
+                        3,
+                        19
+                    ],
+                    "name": "SUSAN",
+                    "screen_name": "YOUNGLARRYSUSAN"
+                },
+                {
+                    "id": 37836873,
+                    "id_str": "37836873",
+                    "indices": [
+                        94,
+                        110
+                    ],
+                    "name": "Lil B THE BASEDGOD",
+                    "screen_name": "LILBTHEBASEDGOD"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 683021411535867904,
+        "id_str": "683021411535867904",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 8,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Jan 01 20:19:18 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 37836873,
+                        "id_str": "37836873",
+                        "indices": [
+                            73,
+                            89
+                        ],
+                        "name": "Lil B THE BASEDGOD",
+                        "screen_name": "LILBTHEBASEDGOD"
+                    }
+                ]
+            },
+            "favorite_count": 34,
+            "favorited": false,
+            "geo": null,
+            "id": 683019690361270272,
+            "id_str": "683019690361270272",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 8,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "I WENT FIRST OF THE MONTH INTO THUGGED OUT AND PISSED OFF HAPPY NEW YEAR @LILBTHEBASEDGOD IM IN IKEA",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Apr 18 23:32:25 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "fuck Henry Ford",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 5222,
+                "follow_request_sent": false,
+                "followers_count": 2185,
+                "following": false,
+                "friends_count": 396,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 33051316,
+                "id_str": "33051316",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 17,
+                "location": "virtual reality ",
+                "name": "SUSAN",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/9067977/moneyyy.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/9067977/moneyyy.jpg",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33051316/1451276572",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/681329377976520704/yXqMtraN_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/681329377976520704/yXqMtraN_normal.jpg",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000A03",
+                "profile_sidebar_fill_color": "A9F881",
+                "profile_text_color": "05B400",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "YOUNGLARRYSUSAN",
+                "statuses_count": 17847,
+                "time_zone": "Pacific Time (US & Canada)",
+                "url": null,
+                "utc_offset": -28800,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @YOUNGLARRYSUSAN: I WENT FIRST OF THE MONTH INTO THUGGED OUT AND PISSED OFF HAPPY NEW YEAR @LILBTHEBASEDGOD IM IN IKEA",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 05 02:41:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mogul, First Rapper Ever To Write And Publish A Book at 19, Film Score, Composer, Producer,Director/Photo/Branding/Marketing/Historical Online Figure #BASED",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/lilbpack1",
+                            "expanded_url": "http://www.youtube.com/lilbpack1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zoy27sPkw9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 96978,
+            "follow_request_sent": false,
+            "followers_count": 1207333,
+            "following": false,
+            "friends_count": 1322807,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 37836873,
+            "id_str": "37836873",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5990,
+            "location": "United States",
+            "name": "Lil B THE BASEDGOD",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "12FFA0",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LILBTHEBASEDGOD",
+            "statuses_count": 147895,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zoy27sPkw9",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 01 20:26:04 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1388603659,
+                    "id_str": "1388603659",
+                    "indices": [
+                        3,
+                        15
+                    ],
+                    "name": "Yo Bitch Old News",
+                    "screen_name": "Fresh_Papii"
+                },
+                {
+                    "id": 37836873,
+                    "id_str": "37836873",
+                    "indices": [
+                        60,
+                        76
+                    ],
+                    "name": "Lil B THE BASEDGOD",
+                    "screen_name": "LILBTHEBASEDGOD"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 683021390774050816,
+        "id_str": "683021390774050816",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 7,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Jan 01 20:23:31 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 37836873,
+                        "id_str": "37836873",
+                        "indices": [
+                            43,
+                            59
+                        ],
+                        "name": "Lil B THE BASEDGOD",
+                        "screen_name": "LILBTHEBASEDGOD"
+                    }
+                ]
+            },
+            "favorite_count": 16,
+            "favorited": false,
+            "geo": null,
+            "id": 683020748953272321,
+            "id_str": "683020748953272321",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 7,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "2016 is the grinding year so had to follow @LILBTHEBASEDGOD just so I don't get that James harden",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Apr 29 04:05:10 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "#COLINNATION RIP #FeFe\u2764\ufe0f BIP #T4WORLD #LongLiveRoc",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "DONTFUCKINTRIP.com",
+                                "expanded_url": "http://DONTFUCKINTRIP.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/BfIPXgPTUV"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 4100,
+                "follow_request_sent": false,
+                "followers_count": 848,
+                "following": false,
+                "friends_count": 22,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 1388603659,
+                "id_str": "1388603659",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "By My Lonely",
+                "name": "Yo Bitch Old News",
+                "notifications": false,
+                "profile_background_color": "7A7A7A",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/879558599/62c1dba6221225a11ed987a1bd2cc625.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/879558599/62c1dba6221225a11ed987a1bd2cc625.jpeg",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1388603659/1451193674",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/682467129925484544/wZxjMccS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/682467129925484544/wZxjMccS_normal.jpg",
+                "profile_link_color": "000000",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Fresh_Papii",
+                "statuses_count": 2238,
+                "time_zone": "Central Time (US & Canada)",
+                "url": "https://t.co/BfIPXgPTUV",
+                "utc_offset": -21600,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @Fresh_Papii: 2016 is the grinding year so had to follow @LILBTHEBASEDGOD just so I don't get that James harden",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 05 02:41:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mogul, First Rapper Ever To Write And Publish A Book at 19, Film Score, Composer, Producer,Director/Photo/Branding/Marketing/Historical Online Figure #BASED",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/lilbpack1",
+                            "expanded_url": "http://www.youtube.com/lilbpack1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zoy27sPkw9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 96978,
+            "follow_request_sent": false,
+            "followers_count": 1207333,
+            "following": false,
+            "friends_count": 1322807,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 37836873,
+            "id_str": "37836873",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5990,
+            "location": "United States",
+            "name": "Lil B THE BASEDGOD",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "12FFA0",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LILBTHEBASEDGOD",
+            "statuses_count": 147895,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zoy27sPkw9",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 01 20:25:55 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 2165591714,
+                    "id_str": "2165591714",
+                    "indices": [
+                        3,
+                        18
+                    ],
+                    "name": "Brandon Smith",
+                    "screen_name": "MichealKnight_"
+                },
+                {
+                    "id": 37836873,
+                    "id_str": "37836873",
+                    "indices": [
+                        20,
+                        36
+                    ],
+                    "name": "Lil B THE BASEDGOD",
+                    "screen_name": "LILBTHEBASEDGOD"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 683021354401054720,
+        "id_str": "683021354401054720",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 6,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Jan 01 20:25:03 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 37836873,
+                        "id_str": "37836873",
+                        "indices": [
+                            0,
+                            16
+                        ],
+                        "name": "Lil B THE BASEDGOD",
+                        "screen_name": "LILBTHEBASEDGOD"
+                    }
+                ]
+            },
+            "favorite_count": 14,
+            "favorited": false,
+            "geo": null,
+            "id": 683021135445946369,
+            "id_str": "683021135445946369",
+            "in_reply_to_screen_name": "LILBTHEBASEDGOD",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 37836873,
+            "in_reply_to_user_id_str": "37836873",
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 6,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "@LILBTHEBASEDGOD  is definitely back in 2016 \ud83d\udd25",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Oct 30 22:42:43 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "They don't want us on Twitter.                                     UIUC    Snapchat: Blackishcow",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 748,
+                "follow_request_sent": false,
+                "followers_count": 572,
+                "following": false,
+                "friends_count": 199,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 2165591714,
+                "id_str": "2165591714",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "South Chicago. IG: No_Veto",
+                "name": "Brandon Smith",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2165591714/1450782095",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/656140145117274112/7drq5j3j_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/656140145117274112/7drq5j3j_normal.jpg",
+                "profile_link_color": "DD2E44",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "MichealKnight_",
+                "statuses_count": 457,
+                "time_zone": "Pacific Time (US & Canada)",
+                "url": null,
+                "utc_offset": -28800,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @MichealKnight_: @LILBTHEBASEDGOD  is definitely back in 2016 \ud83d\udd25",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 05 02:41:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mogul, First Rapper Ever To Write And Publish A Book at 19, Film Score, Composer, Producer,Director/Photo/Branding/Marketing/Historical Online Figure #BASED",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/lilbpack1",
+                            "expanded_url": "http://www.youtube.com/lilbpack1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zoy27sPkw9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 96978,
+            "follow_request_sent": false,
+            "followers_count": 1207333,
+            "following": false,
+            "friends_count": 1322807,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 37836873,
+            "id_str": "37836873",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5990,
+            "location": "United States",
+            "name": "Lil B THE BASEDGOD",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "12FFA0",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LILBTHEBASEDGOD",
+            "statuses_count": 147895,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zoy27sPkw9",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 01 20:25:52 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 2880315444,
+                    "id_str": "2880315444",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "young radical",
+                    "screen_name": "csvhrvrnxell"
+                },
+                {
+                    "id": 37836873,
+                    "id_str": "37836873",
+                    "indices": [
+                        24,
+                        40
+                    ],
+                    "name": "Lil B THE BASEDGOD",
+                    "screen_name": "LILBTHEBASEDGOD"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 683021340073299969,
+        "id_str": "683021340073299969",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 6,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Jan 01 20:24:54 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 37836873,
+                        "id_str": "37836873",
+                        "indices": [
+                            6,
+                            22
+                        ],
+                        "name": "Lil B THE BASEDGOD",
+                        "screen_name": "LILBTHEBASEDGOD"
+                    }
+                ]
+            },
+            "favorite_count": 25,
+            "favorited": false,
+            "geo": null,
+            "id": 683021098514919424,
+            "id_str": "683021098514919424",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 6,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "shook @LILBTHEBASEDGOD hand last night so i know it's gonna be a blessed 2016",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Oct 28 04:59:35 +0000 2014",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "in my socks outside like fuck it then",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 1341,
+                "follow_request_sent": false,
+                "followers_count": 44,
+                "following": false,
+                "friends_count": 179,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 2880315444,
+                "id_str": "2880315444",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "san jose, ca",
+                "name": "young radical",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2880315444/1414474273",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/526968821718847490/HXtHyvOg_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/526968821718847490/HXtHyvOg_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "csvhrvrnxell",
+                "statuses_count": 302,
+                "time_zone": "Pacific Time (US & Canada)",
+                "url": null,
+                "utc_offset": -28800,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @csvhrvrnxell: shook @LILBTHEBASEDGOD hand last night so i know it's gonna be a blessed 2016",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 05 02:41:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mogul, First Rapper Ever To Write And Publish A Book at 19, Film Score, Composer, Producer,Director/Photo/Branding/Marketing/Historical Online Figure #BASED",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/lilbpack1",
+                            "expanded_url": "http://www.youtube.com/lilbpack1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zoy27sPkw9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 96978,
+            "follow_request_sent": false,
+            "followers_count": 1207333,
+            "following": false,
+            "friends_count": 1322807,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 37836873,
+            "id_str": "37836873",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5990,
+            "location": "United States",
+            "name": "Lil B THE BASEDGOD",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "12FFA0",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LILBTHEBASEDGOD",
+            "statuses_count": 147895,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zoy27sPkw9",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 01 20:20:04 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 47092073,
+                    "id_str": "47092073",
+                    "indices": [
+                        3,
+                        10
+                    ],
+                    "name": "Rik",
+                    "screen_name": "Blkfce"
+                },
+                {
+                    "id": 37836873,
+                    "id_str": "37836873",
+                    "indices": [
+                        30,
+                        46
+                    ],
+                    "name": "Lil B THE BASEDGOD",
+                    "screen_name": "LILBTHEBASEDGOD"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 683019882540089344,
+        "id_str": "683019882540089344",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "in",
+        "metadata": {
+            "iso_language_code": "in",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 7,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Jan 01 20:15:28 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 37836873,
+                        "id_str": "37836873",
+                        "indices": [
+                            18,
+                            34
+                        ],
+                        "name": "Lil B THE BASEDGOD",
+                        "screen_name": "LILBTHEBASEDGOD"
+                    }
+                ]
+            },
+            "favorite_count": 12,
+            "favorited": false,
+            "geo": null,
+            "id": 683018724174086144,
+            "id_str": "683018724174086144",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "in",
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 7,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Black bih stole - @LILBTHEBASEDGOD",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Jun 14 13:34:27 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "shooter",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "blkfce.com",
+                                "expanded_url": "http://blkfce.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/R3EtqNkf3C"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 2038,
+                "follow_request_sent": false,
+                "followers_count": 648,
+                "following": false,
+                "friends_count": 194,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 47092073,
+                "id_str": "47092073",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 24,
+                "location": "Atlanta ",
+                "name": "Rik",
+                "notifications": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000026416434/b58fb99bf2b1dc05182ea2b436d7495a.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000026416434/b58fb99bf2b1dc05182ea2b436d7495a.jpeg",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/47092073/1451549468",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/682988904547356672/XhDWc61R_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/682988904547356672/XhDWc61R_normal.jpg",
+                "profile_link_color": "612626",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Blkfce",
+                "statuses_count": 95051,
+                "time_zone": "Quito",
+                "url": "https://t.co/R3EtqNkf3C",
+                "utc_offset": -18000,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @Blkfce: Black bih stole - @LILBTHEBASEDGOD",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 05 02:41:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mogul, First Rapper Ever To Write And Publish A Book at 19, Film Score, Composer, Producer,Director/Photo/Branding/Marketing/Historical Online Figure #BASED",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/lilbpack1",
+                            "expanded_url": "http://www.youtube.com/lilbpack1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zoy27sPkw9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 96978,
+            "follow_request_sent": false,
+            "followers_count": 1207333,
+            "following": false,
+            "friends_count": 1322807,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 37836873,
+            "id_str": "37836873",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5990,
+            "location": "United States",
+            "name": "Lil B THE BASEDGOD",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "12FFA0",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LILBTHEBASEDGOD",
+            "statuses_count": 147895,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zoy27sPkw9",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 01 20:20:02 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 48902860,
+                    "id_str": "48902860",
+                    "indices": [
+                        3,
+                        15
+                    ],
+                    "name": "diag\u00fbe",
+                    "screen_name": "DiegoToilet"
+                },
+                {
+                    "id": 37836873,
+                    "id_str": "37836873",
+                    "indices": [
+                        79,
+                        95
+                    ],
+                    "name": "Lil B THE BASEDGOD",
+                    "screen_name": "LILBTHEBASEDGOD"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 683019873438449664,
+        "id_str": "683019873438449664",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 8,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Jan 01 20:15:47 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 37836873,
+                        "id_str": "37836873",
+                        "indices": [
+                            62,
+                            78
+                        ],
+                        "name": "Lil B THE BASEDGOD",
+                        "screen_name": "LILBTHEBASEDGOD"
+                    }
+                ]
+            },
+            "favorite_count": 15,
+            "favorited": false,
+            "geo": null,
+            "id": 683018806353129472,
+            "id_str": "683018806353129472",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 8,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "starting 2016 right:\nThugged Out Pissed Off on replay all day\n@LILBTHEBASEDGOD",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Jun 20 02:29:16 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "lord save this burning earth",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 2047,
+                "follow_request_sent": false,
+                "followers_count": 433,
+                "following": false,
+                "friends_count": 380,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 48902860,
+                "id_str": "48902860",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 1,
+                "location": "Terabithia ",
+                "name": "diag\u00fbe",
+                "notifications": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450147825943183360/RJjEDdCg.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450147825943183360/RJjEDdCg.jpeg",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/48902860/1432075128",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/673984295464136708/QQzZ05jA_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/673984295464136708/QQzZ05jA_normal.jpg",
+                "profile_link_color": "1C1580",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "ABA1A1",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "DiegoToilet",
+                "statuses_count": 16719,
+                "time_zone": "Pacific Time (US & Canada)",
+                "url": null,
+                "utc_offset": -28800,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @DiegoToilet: starting 2016 right:\nThugged Out Pissed Off on replay all day\n@LILBTHEBASEDGOD",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 05 02:41:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mogul, First Rapper Ever To Write And Publish A Book at 19, Film Score, Composer, Producer,Director/Photo/Branding/Marketing/Historical Online Figure #BASED",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/lilbpack1",
+                            "expanded_url": "http://www.youtube.com/lilbpack1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zoy27sPkw9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 96978,
+            "follow_request_sent": false,
+            "followers_count": 1207333,
+            "following": false,
+            "friends_count": 1322807,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 37836873,
+            "id_str": "37836873",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5990,
+            "location": "United States",
+            "name": "Lil B THE BASEDGOD",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "12FFA0",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LILBTHEBASEDGOD",
+            "statuses_count": 147895,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zoy27sPkw9",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 01 20:19:41 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "instagram.com/p/BAAnRd_uFZ8/",
+                    "expanded_url": "https://www.instagram.com/p/BAAnRd_uFZ8/",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "url": "https://t.co/2UeqQoOTcD"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 26,
+        "favorited": false,
+        "geo": null,
+        "id": 683019787044274176,
+        "id_str": "683019787044274176",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "text": "Just posted a photo https://t.co/2UeqQoOTcD",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 05 02:41:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mogul, First Rapper Ever To Write And Publish A Book at 19, Film Score, Composer, Producer,Director/Photo/Branding/Marketing/Historical Online Figure #BASED",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/lilbpack1",
+                            "expanded_url": "http://www.youtube.com/lilbpack1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zoy27sPkw9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 96978,
+            "follow_request_sent": false,
+            "followers_count": 1207333,
+            "following": false,
+            "friends_count": 1322807,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 37836873,
+            "id_str": "37836873",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5990,
+            "location": "United States",
+            "name": "Lil B THE BASEDGOD",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "12FFA0",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LILBTHEBASEDGOD",
+            "statuses_count": 147895,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zoy27sPkw9",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 01 20:11:41 +0000 2016",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 2259725215,
+                    "id_str": "2259725215",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "name": "Javier Terry",
+                    "screen_name": "guaposmooth"
+                },
+                {
+                    "id": 481256133,
+                    "id_str": "481256133",
+                    "indices": [
+                        13,
+                        21
+                    ],
+                    "name": "Sean Jr\u264d",
+                    "screen_name": "jetS3AN"
+                }
+            ]
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "geo": null,
+        "id": 683017774176665601,
+        "id_str": "683017774176665601",
+        "in_reply_to_screen_name": "guaposmooth",
+        "in_reply_to_status_id": 683014960868376576,
+        "in_reply_to_status_id_str": "683014960868376576",
+        "in_reply_to_user_id": 2259725215,
+        "in_reply_to_user_id_str": "2259725215",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@guaposmooth @jetS3AN I see y'all - Lil B",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 05 02:41:57 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mogul, First Rapper Ever To Write And Publish A Book at 19, Film Score, Composer, Producer,Director/Photo/Branding/Marketing/Historical Online Figure #BASED",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/lilbpack1",
+                            "expanded_url": "http://www.youtube.com/lilbpack1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/zoy27sPkw9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 96978,
+            "follow_request_sent": false,
+            "followers_count": 1207333,
+            "following": false,
+            "friends_count": 1322807,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 37836873,
+            "id_str": "37836873",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5990,
+            "location": "United States",
+            "name": "Lil B THE BASEDGOD",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130048781/lilb.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248509273/39198_1571854573776_1157872547_31663366_5779158_n_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "12FFA0",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LILBTHEBASEDGOD",
+            "statuses_count": 147895,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/zoy27sPkw9",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    }
+]
