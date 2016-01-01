@@ -204,28 +204,24 @@ export default {
     'position': 'fixed',
     'top': 0,
     'left': 0,
-    'right': 0,
-    'bottom': 0,
     'zIndex': 999999999999,
     'overflowX': 'hidden',
     'textAlign': 'center',
     'background': 'rgba(0, 0, 0, 0.8)',
     'display': 'table',
     'width': '100%',
-    'height': '100%'
+    'height': '100vh'
   },
   'ModalClose': {
     'position': 'fixed',
     'top': 0,
     'left': 0,
-    'right': 0,
-    'bottom': 0,
     'zIndex': 10,
     'overflowX': 'hidden',
     'textAlign': 'center',
     'display': 'table',
     'width': '100%',
-    'height': '100%'
+    'height': '100vh'
   },
   'ModalInner': {
     'display': 'table-cell',
