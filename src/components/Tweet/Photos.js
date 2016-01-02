@@ -14,7 +14,6 @@ class Photos extends React.Component {
 
   render () {
     let {media} = this.props
-    if (media.length === 3) console.log(media)
 
     let mediaElements = [], mediaStyle = cloneDeep(styles.AdaptiveMedia)
     if (media.length === 2) mediaStyle.height = '253px'

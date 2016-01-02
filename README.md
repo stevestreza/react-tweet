@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/artnotfound/react-tweet/master/tweet.png" />
 </p>
 
+[live demo](https://react-tweet.herokuapp.com/)
+
 React.js component for rendering tweets as they are presented on Twitter.com. Currently themed after the Desktop
 experience with the idea of a fixed width timeline. See the [example](http://gitub.com/artnotfound/react-tweet/example/app.js) for
 an example of a tweet stream.
@@ -55,7 +57,8 @@ class MyTweetComponent extends React.Component {
 ```
 
 ## Demo
-run `npm start` & visit `localhost:8080`
+live: [live demo](https://react-tweet.herokuapp.com/)
+local: run `npm start` & visit `localhost:8080`
 
 ## Supported
   * Desktop Twitter.com styles
