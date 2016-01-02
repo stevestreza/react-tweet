@@ -43,7 +43,7 @@ const tweetData = {
     urls: [],
     user_mentions: [],
     hashtags: [],
-    symbols: []:v
+    symbols: []
   } 
 }
 
@@ -57,8 +57,8 @@ class MyTweetComponent extends React.Component {
 ```
 
 ## Demo
-live: [live demo](https://react-tweet.herokuapp.com/)
-local: run `npm start` & visit `localhost:8080`
+  * live: [live demo](https://react-tweet.herokuapp.com/)
+  * local: run `npm start` & visit `localhost:8080`
 
 ## Supported
   * Desktop Twitter.com styles
