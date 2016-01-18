@@ -20,7 +20,7 @@ class Tweet extends React.Component {
     }
   }
 
-  toggleModal (idx) {
+  toggleModal(idx) {
     this.setState({
       'modalActive': true,
       'modalIndex': idx

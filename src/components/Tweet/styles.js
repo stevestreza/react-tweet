@@ -1,20 +1,16 @@
 export default {
   'tweet': {
-    'cursor': 'default',
     'backgroundColor': '#ffffff',
-    'padding': '30px 40px',
     'position': 'relative',
     'minHeight': '51px',
     'borderBottom': '1px solid rgb(225, 232, 237)',
     'color': 'rgb(41, 47, 51)',
     'cursor': 'pointer',
-    'fontFamily': '"Helvetica Neue", "Helvetica", "Arial", "sans-serif"',
     'fontSize': '14px',
     'lineHeight': '18px',
     'listStyleImage': 'none',
     'listStylePosition': 'outisde',
     'listStyleType': 'none',
-    'padding': '9px 12px',
     'position': 'relative',
     'textAlign': 'start'
   },

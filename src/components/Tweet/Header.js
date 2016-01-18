@@ -8,7 +8,11 @@ class Header extends React.Component {
     if (!time) return null
 
     const parseTwitterDate = tdate => {
-      let system_date = new Date(Date.parse(tdate))
+      let date = tdate;
+      if (typeof date !== 'number') {
+        date = Date.parse(date);
+      }
+      let system_date = new Date(tdate)
       var user_date = new Date()
 
       let diff = Math.floor((user_date - system_date) / 1000)
